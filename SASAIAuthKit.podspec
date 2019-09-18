@@ -16,8 +16,8 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SASAIAuthKit"
-  spec.version      = "0.0.2"
-  spec.summary      = "A short description of SASAIAuthKit."
+  spec.version      = "0.0.3"
+  spec.summary      = "我是测试 SASAIAuthKit."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-                        cs cs cs test
+                        我是测试
                    DESC
 
   spec.homepage     = "https://github.com/xiexuetao/FrameworkPodSpace"
