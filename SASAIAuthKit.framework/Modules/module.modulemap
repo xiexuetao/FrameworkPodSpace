@@ -1,0 +1,6 @@
+framework module SASAIAuthKit {
+  umbrella header "SASAIAuthKit.h"
+
+  export *
+  module * { export * }
+}
