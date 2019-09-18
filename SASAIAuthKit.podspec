@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SASAIAuthKit"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.4"
   spec.summary      = "我是测试 SASAIAuthKit."
 
   # This description is used to generate tags and improve search results.
